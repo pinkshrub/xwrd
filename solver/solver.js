@@ -1,0 +1,1 @@
+This is an entity that uses two tries to solve crossword
