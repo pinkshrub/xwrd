@@ -18,10 +18,10 @@ Current Status:
 
 Using Xwrdr:
 Currently, Xwrdr isn't set up to be particularly useful. I'd like to change that, but initial goals is to just get some of my work out and about on the web. If you did want to use Xwrdr, here are the steps:
--1 Clone the repo so you have access to the Solver and Trie classes
--2 Build a word list you'd like to use, make sure it is something you can turn into a JS array. JSON would be lovely.
--3 Build a grid, '*' is what represents a dark square currently.
--4 Go ahead and run the biz using whatever JS magic tool you'd like
+- 1 Clone the repo so you have access to the Solver and Trie classes
+- 2 Build a word list you'd like to use, make sure it is something you can turn into a JS array. JSON would be lovely.
+- 3 Build a grid, '*' is what represents a dark square currently.
+- 4 Go ahead and run the biz using whatever JS magic tool you'd like
 
 To-Dos:
 - Tidy up basic interface
